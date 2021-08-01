@@ -33,14 +33,6 @@ public class JavaStreamExample {
         productsList.add(Product4);
         productsList.add(Product5);
         
-        
-        
-        
-        
-        
-        
-        
-        
         //1St program
         
       
